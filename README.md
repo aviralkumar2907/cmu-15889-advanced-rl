@@ -1,4 +1,4 @@
-Instructor: [Aviral Kumar](https://aviralkumar2907.github.io/)) \
+Instructor: [Aviral Kumar](https://aviralkumar2907.github.io/) \
 Time: Mondays 3:30pm–5pm \
 Location: Wean 5320 (in person) \
 TA: [Gokul Swamy](https://gokul.dev/) \
