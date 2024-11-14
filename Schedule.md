@@ -10,8 +10,8 @@
 |  10/21 | **Paper Reading: Exploration**| 1. [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868) <br> 2. [Curiosity-Driven Exploration](https://arxiv.org/abs/1705.05363) <br> 3. [RND](https://arxiv.org/abs/1810.12894) <br> 4. [UCB](https://arxiv.org/abs/1703.05449) <br> 5. [Thompson Sampling, Ch. 1-4](https://arxiv.org/abs/1707.02038) |Group| [Form](https://docs.google.com/forms/d/e/1FAIpQLSeZBbbvifnarZwDETUqczHK8qsH1Pw3JNsUi2Mb3DpMKnuUGA/viewform?usp=sf_link) | N/A |
 |  10/28 | **Lecture: Imitation Learning and RL Theory**| [An Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf) | Gokul Swamy | N/A | N/A |
 |  11/4 | **Paper Reading: Inverse RL**| 1. [MaxEnt Inverse RL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf) <br> 2. [GAIL](https://arxiv.org/pdf/1606.03476) <br> 3. [Of Moments and Matching](https://arxiv.org/pdf/2103.03236) <br> 4. [Hybrid IRL](https://arxiv.org/pdf/2402.08848) | Group | [Form](https://docs.google.com/forms/d/e/1FAIpQLScQTX1cbwuP9VjGb0LG4wq84pcnwOMilj5YqDZaps69vguFag/viewform?usp=sf_link) | N/A |
-|  11/11 | **Lecture: RL with and for Foundation Models**| TBD | Aviral Kumar | N/A | N/A |
-|  11/18 | **Paper Reading: RL with and for Foundation Models**| TBD | TBD | N/A | N/A |
+|  11/11 | **Lecture: RL with and for Foundation Models I**| TBD | Aviral Kumar | N/A | N/A |
+|  11/18 | **Lecture: RL with and for Foundation Models II**| TBD | TBD | N/A | N/A |
 |  11/25 | **Lecture: Advanced Topics**| None | Aviral Kumar \& Gokul Swamy | N/A | N/A |
 |  12/2 | **Paper Reading: Advanced Topics**| TBD | TBD | N/A | N/A |
 |  12/9 | **Project Presentations**| TBD | TBD | N/A | N/A |
